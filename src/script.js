@@ -13,6 +13,9 @@ const debugObject = {
     surfaceColor: '#7396bf'
 }
 
+// hide gui
+    gui.hide()
+
 /**
  * Canvas
  */
